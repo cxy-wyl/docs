@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.CSUR-ymV.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"language/ts.md","filePath":"language/ts.md","lastUpdated":1717238863000}'),s={name:"language/ts.md"};function n(r,o,c,d,p,l){return e(),a("div")}const m=t(s,[["render",n]]);export{i as __pageData,m as default};
