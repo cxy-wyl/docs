@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.DnJ-_PtE.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pc/react/index.md","filePath":"pc/react/index.md","lastUpdated":1717410010000}'),c={name:"pc/react/index.md"};function r(n,o,s,d,p,i){return t(),a("div")}const f=e(c,[["render",r]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t}from"./chunks/framework.DnJ-_PtE.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"engineering/npm.md","filePath":"engineering/npm.md","lastUpdated":1718107892000}'),a={name:"engineering/npm.md"};function r(o,s,i,p,c,m){return n(),t("div")}const f=e(a,[["render",r]]);export{_ as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t}from"./chunks/framework.DnJ-_PtE.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"language/java.md","filePath":"language/java.md","lastUpdated":1717238863000}'),n={name:"language/java.md"};function r(o,s,c,d,p,l){return e(),t("div")}const m=a(n,[["render",r]]);export{i as __pageData,m as default};
